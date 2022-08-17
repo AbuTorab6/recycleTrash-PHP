@@ -1,0 +1,47 @@
+[
+    {
+        "userName": "John",
+        "phone": "01234567891",
+        "email": "john@gmail.com",
+        "dob": "2022-03-02",
+        "address": "10th Seller Street, New York",
+        "pass": "987654321",
+        "role": "seller"
+    },
+    {
+        "userName": "Avro",
+        "phone": "01712345678",
+        "email": "avro@gmail.com",
+        "dob": "2020-12-10",
+        "address": "5th Lincoln Ave., Washington DC",
+        "pass": "123456789",
+        "role": "seller"
+    },
+    {
+        "userName": "Jane",
+        "phone": "01234567891",
+        "email": "jane@yahoo.com",
+        "dob": "2022-03-02",
+        "address": "2nd Ave, Virginia",
+        "pass": "564679852245",
+        "role": "seller"
+    },
+    {
+        "userName": "Doe",
+        "phone": "01755006336",
+        "email": "doe@yahoo.com",
+        "dob": "2022-03-10",
+        "address": "A\/B, Goa",
+        "pass": "12345678",
+        "role": "seller"
+    },
+    {
+        "userName": "Jim",
+        "phone": "01772156232",
+        "email": "a@gmail.com",
+        "dob": "2022-03-03",
+        "address": "7th street",
+        "pass": "12345678",
+        "role": "seller"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "userName": "abc",
+        "phone": "01755006336",
+        "email": "j@gmail.com",
+        "pass": "12345678",
+        "role": "employee"
+    },
+    {
+        "userName": "abu torab",
+        "phone": "01755006336",
+        "email": "juboraz727@gmail.com",
+        "pass": "12345678",
+        "role": "employee"
+    },
+    {
+        "userName": "Doe",
+        "phone": "01765456543",
+        "email": "d@gmail.com",
+        "pass": "12345678",
+        "role": "employee"
+    }
+]
